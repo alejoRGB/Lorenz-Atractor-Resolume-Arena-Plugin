@@ -1,6 +1,8 @@
 # Lorenz-Atractor-Resolume-Arena-Plugin
 Its the repository of a Resolume Arena plugin using Processing and the Lorenz Atractor
 
+![](fotos/2020-05-21%20at%2019.32.31.png)
+
 //Lorenz Atracktor
 
 //Este plugin lo que hace es dibujar puntos siguiendo el sistema de coordanadas de la ecuación "El Atracktor de Lorenz" , que en ingles significa
