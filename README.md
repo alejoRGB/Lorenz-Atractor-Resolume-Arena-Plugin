@@ -1,7 +1,10 @@
 # Lorenz-Atractor-Resolume-Arena-Plugin
 Its the repository of a Resolume Arena plugin using Processing and the Lorenz Atractor
 
-![](fotos/2020-05-21%20at%2019.32.31.png)
+<img src = "fotos/2020-05-21%20at%2019.32.31.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.21.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.28.png" width =300 height = 300>
+
+<img src = "fotos/2020-05-21%20at%2019.33.39.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.49.png" width =300 height = 300>
+
 
 //Lorenz Atracktor
 
