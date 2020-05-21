@@ -1,0 +1,40 @@
+/*{
+	"CREDIT": "SpoutControls - spout.zeal.co",
+	"DESCRIPTION": "Lorenz_Atracktor",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Lineas o Puntos",
+			"TYPE": "bool",
+			"MIN": 0.00,
+			"MAX": 1.00,
+			"DEFAULT": 1.00
+		},
+		{
+			"NAME": "Largo de Lineas",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 127.0,
+			"DEFAULT": 60.0
+		},
+		{
+			"NAME": "Cant Lineas",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 127.0,
+			"DEFAULT": 60.0
+		},
+		{
+			"NAME": "Vel Cam",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 127.0,
+			"DEFAULT": 60.0
+		},
+
+
+		
+	],
+}*/
