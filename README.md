@@ -1,5 +1,7 @@
 # Lorenz-Atractor-Resolume-Arena-Plugin
-Its the repository of a Resolume Arena plugin using Processing and the Lorenz Atractor
+This is the repository of a Resolume Arena plugin using Processing and the Lorenz Atractor
+Este es el repositorio para un Plugin de Resolume Arena usando el Atracktor de Lorenz, hecho con Processing. 
+
 
 <img src = "fotos/2020-05-21%20at%2019.32.31.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.21.png" width =300 height = 300><img src = "fotos/2020-05-21%20at%2019.33.28.png" width =300 height = 300>
 
