@@ -15,7 +15,9 @@ Este es el repositorio para un Plugin de Resolume Arena usando el Atracktor de L
 //Para correr este plugin es necesario tener instalado Spout controls, y tener las librerias de processing utilizadas en la misma carpeta que
 //el plugin. Las librerias vienen en el paquete de Github. Para descargar Spout Controls dejo un link abajo. 
 //Gracias a https://processing.org/, https://discourse.processing.org/, a https://hamoid.com/ o @hamoid en el foro de processing. 
-//Esta app se descarga gratuitamente del link: 
+//Esta app se descarga gratuitamente del link: https://github.com/alejoRGB/Lorenz-Atractor-Resolume-Arena-Plugin
+
+
 
 
 //Fuentes:
